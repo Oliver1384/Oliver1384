@@ -105,8 +105,7 @@ footer a {
     color: rgb(230, 125, 27);
 }
 
-.job{
-    margin-left: 34%;
+.form{    
     padding: 30px;
     max-width: 360px;
 }
@@ -176,3 +175,12 @@ section{
     }
 }
 
+ul{
+    display: flex;
+    flex-direction: column;
+}
+
+section.job{
+    display: flex;
+    justify-content: center;
+}
