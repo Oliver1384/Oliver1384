@@ -137,7 +137,7 @@ header{
 }
 
 section{
-    animation: animacion 4s;
+    animation: animacion 6s;
     animation-timing-function:ease ;
     animation-iteration-count:infinite;
     animation-fill-mode:both;
