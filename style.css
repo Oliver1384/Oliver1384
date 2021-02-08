@@ -144,7 +144,18 @@ section{
     animation-direction: alternate;
     
 }
-
+@font-face {
+    font-family: "Mystery Quest";
+    src: url("mystery-quest.woff2");
+  }
+  
+  p {
+    font-family: "Mystery Quest", cursive; 
+    margin-top: 1rem;
+    display: flex;
+    color: white;
+    justify-content: center;
+}
 
 @keyframes animacion{
     from{
